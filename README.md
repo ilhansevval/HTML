@@ -1,7 +1,7 @@
 # HTML
 This repository includes a set of documents and codes on HTML to improve my skills.
 
-## Includes:
+## Contents:
 
 - [x] Headline 
 - [x] Paragraph
@@ -12,7 +12,7 @@ This repository includes a set of documents and codes on HTML to improve my skil
 - [x] Strong and Emphasis Element
 - [x] Block and Inline Element
 - [x] Table
-- [x] Semantic HTML Tags"
+- [x] Semantic HTML Tags
 
 ## Two Project in live:
 
