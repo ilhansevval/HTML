@@ -18,6 +18,6 @@ This repository includes a set of documents and codes on HTML to improve my skil
 
 [First HTML Project with Simple CSS](https://sevval-ilhan-simple-css-demo.netlify.app/)
 
-[Seconda HTML Project with Pico CSS](https://sevval-ilhan-pico-css-demo.netlify.app/)
+[Second HTML Project with Pico CSS](https://sevval-ilhan-pico-css-demo.netlify.app/)
 
 You can reach out this project with using this links.
